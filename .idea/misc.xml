@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/activity_anime.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/anime_row_item.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/baca_lebih_lanjut.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/detail_pemrograman.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/example_item.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/list_algoritma.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/list_items.xml" value="0.1" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/list_pemrograman.xml" value="0.2" />
+        <entry key="..\:/Android Studio Project/Tugas/app/src/main/res/layout/row_algoritma_pengurutan.xml" value="0.1" />
+        <entry key="..\:/SISTEM DATABESE/Tugas/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SISTEM DATABESE/Tugas/app/src/main/res/layout/detail_fremwork.xml" value="0.20416666666666666" />
+        <entry key="..\:/SISTEM DATABESE/Tugas/app/src/main/res/layout/detail_pemrograman.xml" value="0.18" />
+        <entry key="..\:/SISTEM DATABESE/Tugas/app/src/main/res/layout/list_fremwork.xml" value="0.3339805825242718" />
+        <entry key="..\:/SISTEM DATABESE/Tugas/app/src/main/res/layout/list_pemrograman.xml" value="0.5" />
+        <entry key="..\:/Tugas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24444444444444444" />
+        <entry key="..\:/Tugas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24444444444444444" />
+        <entry key="..\:/Tugas/app/src/main/res/drawable/ic_notif_foreground.xml" value="0.24444444444444444" />
+        <entry key="..\:/Tugas/app/src/main/res/drawable/ic_refres_foreground.xml" value="0.24444444444444444" />
+        <entry key="..\:/Tugas/app/src/main/res/drawable/ic_save_foreground.xml" value="0.24444444444444444" />
+        <entry key="..\:/Tugas/app/src/main/res/drawable/ic_toggle_foreground.xml" value="0.24444444444444444" />
+        <entry key="..\:/Tugas/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Tugas/app/src/main/res/layout/detail_fremwork.xml" value="0.25416666666666665" />
+        <entry key="..\:/Tugas/app/src/main/res/layout/list_fremwork.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
